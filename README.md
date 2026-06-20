@@ -10,7 +10,6 @@
 
 - 📫 How to reach me : **roshanishaw57@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bZsJYJkbFrT4hJt49gHsJ9w0kVvooyx6/view?usp=sharing](https://drive.google.com/file/d/1bZsJYJkbFrT4hJt49gHsJ9w0kVvooyx6/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; 
