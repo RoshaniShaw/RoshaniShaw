@@ -59,6 +59,37 @@ AI-powered Interview Preparation Platform featuring mock interviews, ATS resume 
 </td>
 </tr>
 
+<tr>
+ <td width="50%" valign="top" align="center">
+
+<img src="TragencyAI.png" width="100" alt="Tragency AI Logo"/>
+
+<h3>Tragency AI</h3>
+
+<p>
+AI-powered travel planning platform that creates personalized itineraries using modern web technologies and intelligent recommendations.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
+
+</p>
+
+<a href="https://github.com/RoshaniShaw/Tragency-AI">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+
   
 <tr>
  <td width="50%" valign="top" align="center">
