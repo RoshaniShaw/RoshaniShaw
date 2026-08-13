@@ -23,6 +23,42 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
+<h3 align="left"> <img src="Featured-Projects.png" width="24"/>
+&nbsp;Featured Projects:
+</h3>
+
+<table>
+<tr>
+ <td width="50%" valign="top" align="center">
+
+<img src="Cincrafit_AI.png" width="90" alt="CineCraft AI Logo"/>
+
+<h3>CinCrafit AI</h3>
+
+<p>
+AI-powered movie deals assistant that verifies offers using RAG, Groq LLM, Firebase Authentication and intelligent coupon validation.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
+
+</p>
+<a href="https://github.com/RoshaniShaw/Cincrafit-AI">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+</table>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanishaw&show_icons=true&locale=en&layout=compact" alt="roshanishaw" /></p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanishaw&label=Profile%20views&color=0e75b6&style=flat" alt="roshanishaw" /> </p>
