@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on : [SikshaGuardians.com] (https://github.com/RoshaniShaw/Team-Project)
 
-- 🌱 I’m currently learning : **ReactJs,Javascript.**
+- 🌱 I’m currently learning : **Full Stack Web-Development, Building real world projects, Web applications, Cloud Based Integrations.**
 
 - 📫 How to reach me : **roshanishaw57@gmail.com**
 
