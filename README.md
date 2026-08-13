@@ -28,6 +28,38 @@
 </h3>
 
 <table>
+
+<tr>
+ <td width="50%" valign="top" align="center">
+
+<img src="Viscaraiassist.png" width="100" alt="ViscaraiAssist Logo"/>
+
+<h3>ViscaraiAssist</h3>
+
+<p>
+AI-powered Interview Preparation Platform featuring mock interviews, ATS resume analysis, AI feedback and personalized career guidance.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+
+</p>
+
+<a href="https://github.com/RoshaniShaw/Viscarai-Assist">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+  
 <tr>
  <td width="50%" valign="top" align="center">
 
